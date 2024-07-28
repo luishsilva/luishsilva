@@ -4,7 +4,7 @@ My Name is luishsilva and I'm a webdeveloper, I enjoy spending time with my fami
 ### What I'm currently learning
 
 Currently I'm learning,
-React,
+ReactJs,
 JavaScript,
 Html,
 Css,
