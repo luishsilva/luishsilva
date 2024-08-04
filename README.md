@@ -4,7 +4,7 @@ I'm a dedicated software developer. I enjoy writing code, spending time with my 
 ### What I'm actively learning
 
 - Currently I'm learning,
-- 
+  
 ![React](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
