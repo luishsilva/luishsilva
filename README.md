@@ -2,8 +2,6 @@
 I'm a dedicated software developer. I enjoy writing code, spending time with my family, and helping people whenever I have the opportunity to do so.
 
 ### What I'm actively learning
-
-Currently I'm learning,
   
 ![React](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
